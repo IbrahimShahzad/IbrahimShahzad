@@ -1,7 +1,7 @@
 ### Hi there, I'm Ibrahim 👋
 
 ## I'm a Developer and a painter
-- 🔭 I’m currently working @ [xFlowResearch][website]!
+- 🔭 I’m currently working @ xFlowResearch!
 - 🌱 I’m always humbled by how much i do NOT know
 - 👯 I usually work with C/C++ and python
 - 🥅 2020 Goals: dive deep in kernel development
