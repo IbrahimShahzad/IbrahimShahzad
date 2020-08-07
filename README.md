@@ -26,3 +26,7 @@
 
 [instagram]: https://instagram.com/callmeibi
 [linkedin]: https://linkedin.com/in/ibrahim-shahzad-71305773/
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimShahzad)](https://github.com/IbrahimShahzad/github-readme-stats)
