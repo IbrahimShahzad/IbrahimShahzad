@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a painter
 - 🔭 I’m currently working @ xFlowResearch!
-- 🌱 I’m always humbled by how much i do NOT know
+- 🌱 I’m always humbled by how much I do NOT know
 - 👯 I usually work with C/C++ and python
 - 🥅 2020 Goals: dive deep in kernel development
 - ⚡ Fun fact: I pretend to play the guitar 🤣
