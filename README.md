@@ -29,4 +29,4 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimShahzad)](https://github.com/IbrahimShahzad/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimShahzad&theme=gotham&show_icons=true)](https://github.com/IbrahimShahzad/github-readme-stats)
