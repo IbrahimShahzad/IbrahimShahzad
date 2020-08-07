@@ -29,4 +29,6 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimShahzad&theme=gotham&show_icons=true)](https://github.com/IbrahimShahzad/github-readme-stats)
+
+[![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimShahzad&theme=gotham&show_icons=true&count_private=true)](https://github.com/IbrahimShahzad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimShahzad&theme=gotham&show_icons=true&layout=compact)](https://github.com/IbrahimShahzad)
