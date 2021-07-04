@@ -38,7 +38,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimShahzad&theme=gotham&show_icons=true&layout=compact)](https://github.com/IbrahimShahzad)
 
 # Blog posts
-
 Read [Here](https://ibrahimshahzad.github.io/blog)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
