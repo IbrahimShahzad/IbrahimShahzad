@@ -36,3 +36,7 @@
 
 [![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=IbrahimShahzad&theme=gotham&show_icons=true&count_private=true)](https://github.com/IbrahimShahzad)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimShahzad&theme=gotham&show_icons=true&layout=compact)](https://github.com/IbrahimShahzad)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
