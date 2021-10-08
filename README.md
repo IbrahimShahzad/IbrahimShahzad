@@ -1,10 +1,10 @@
 ### Hi there, I'm Ibrahim 👋
 
 ## I'm a Developer and a painter
-- 🔭 I’m currently working @ xFlowResearch!
+- 🔭 I’m currently working as a software developer @ TechAvenue!
 - 🌱 I’m always humbled by how much I do NOT know
-- 👯 I usually work with C/C++ and python
-- 🥅 2020 Goals: dive deep in kernel development
+- 👯 I usually work with C/C++ and sometimes python
+- 🥅 2021 Goals: dive deep in Linux Programming Interface
 - ⚡ Fun fact: I pretend to play the guitar 🤣
 
 ### Connect with me:
