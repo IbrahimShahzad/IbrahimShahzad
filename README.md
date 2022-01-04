@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a software developer @ TechAvenue!
 - 🌱 I’m always humbled by how much I do NOT know
 - 👯 I usually work with C/C++ and a little bit of python/Go/bash. Learning RUST.
-- 🥅 2022 Goals: Dive deep in Linux Programming Interface and writing code for optimised perfmonace.
+- 🥅 2022 Goals: Dive deep in Linux Programming Interface and writing code for optimised performance.
 - ⚡ Fun fact: I pretend to play the guitar 🤣
 
 ### Connect with me:
