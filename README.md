@@ -3,8 +3,8 @@
 ## I'm a Developer and a painter
 - 🔭 I’m currently working as a software developer @ TechAvenue!
 - 🌱 I’m always humbled by how much I do NOT know
-- 👯 I usually work with C/C++ and sometimes python
-- 🥅 2021 Goals: dive deep in Linux Programming Interface
+- 👯 I usually work with C/C++ and a little bit of python/Go/bash. Learning RUST.
+- 🥅 2022 Goals: Dive deep in Linux Programming Interface and writing code for optimised perfmonace.
 - ⚡ Fun fact: I pretend to play the guitar 🤣
 
 ### Connect with me:
