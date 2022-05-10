@@ -1,7 +1,7 @@
 ### Hi there, I'm Ibrahim 👋
 
 ## I'm a Developer and a painter
-- 🔭 I’m currently working as a software developer @ `IotaScale`!
+- 🔭 I’m currently working as a software developer @ `xFlow`!
 - 🌱 I’m always humbled by how much I do NOT know
 - 👯 I usually work with C/C++ and a little bit of python/Go/bash. Learning RUST.
 - 🥅 2022 Goals: Dive deep in Linux Programming Interface and writing code for optimised performance.
