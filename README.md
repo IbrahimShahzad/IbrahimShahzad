@@ -1,11 +1,11 @@
 ### Hi there, I'm Ibrahim 👋
 
 ## I'm a Developer and a painter
-- 🔭 I’m currently working as a software developer @ `xFlow`!
+- 🔭 I’m currently working as a software developer @ `ng-voice`!
 - 🌱 I’m always humbled by how much I do NOT know
-- 👯 I usually work with C/C++ and a little bit of python/Go/bash. Learning RUST.
-- 🥅 2022 Goals: Dive deep in Linux Programming Interface and writing code for optimised performance.
-- ⚡ Fun fact: I pretend to play the guitar 🤣
+- 👯 I usually work with C and a little bit of python/Go/bash. Learning RUST.
+- 🥅 2023 Goals: Dive deep in Linux Programming Interface and writing code for optimised performance.
+- ⚡ Fun fact: I draw too. :P
 
 ### Connect with me:
 
