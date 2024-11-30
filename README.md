@@ -10,7 +10,9 @@ I'm a passionate software developer currently working at `ng-voice`. I primarily
 
 ### Connect with me:
 
+
 [<img align="left" alt="IbrahimShahzad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [linkedin]: https://linkedin.com/in/ibrahim-shahzad-71305773/
 
