@@ -6,7 +6,7 @@ I'm a passionate software developer currently working at `ng-voice`. I primarily
 
 - 🔭 I’m currently working as a software developer @ `ng-voice`!
 - 🌱 I’m always humbled by how much I do NOT know
-- 👯 I usually work with C and a little bit of python/Go/bash. Learning RUST.
+- 👯 I usually work with C and Go. Learning RUST.
 
 ### Connect with me:
 
